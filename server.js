@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // ✅ PAKAI API KEY ANDA (pindah ke .env nanti)
 const openai = new OpenAI({
-  apiKey: "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"
+  apiKey: "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"
 });
 
 
